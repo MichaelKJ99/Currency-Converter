@@ -1,0 +1,32 @@
+.wrapper{
+  display: flex;
+  flex-direction: column;
+}
+
+.inner-box-swap {
+  position: relative;
+  width: 250px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.icon{
+  position: relative;
+  top: 10px;
+}
+
+.button{
+  width: 250px;
+}
+
+
+.select-box{
+  width: 115px;
+}
+
+.result{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 30px;
+  width: 300px;
+}
